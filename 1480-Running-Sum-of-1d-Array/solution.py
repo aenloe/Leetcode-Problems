@@ -6,3 +6,6 @@ class Solution:
             sum += number
             output.append(sum)
 
+        return output
+
+
